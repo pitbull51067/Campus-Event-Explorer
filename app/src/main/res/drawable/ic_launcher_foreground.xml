@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- calendar body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,38h44a4,4 0,0 1,4 4v30a4,4 0,0 1,-4 4H32a4,4 0,0 1,-4 -4V42a4,4 0,0 1,4 -4z" />
+    <!-- calendar header -->
+    <path
+        android:fillColor="#F5A623"
+        android:pathData="M32,38h44a4,4 0,0 1,4 4v6H28v-6a4,4 0,0 1,4 -4z" />
+    <!-- binder rings -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,32h4v10h-4zM66,32h4v10h-4z" />
+    <!-- event dots -->
+    <path
+        android:fillColor="#1F4E79"
+        android:pathData="M36,56h8v8h-8zM50,56h8v8h-8zM64,56h8v8h-8z" />
+</vector>
